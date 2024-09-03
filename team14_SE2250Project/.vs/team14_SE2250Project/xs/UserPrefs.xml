@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{6A994DC0-AFE2-B4FB-2562-7AEB10C873E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Maps/MapController.cs">
+    <Files>
+      <File FileName="Assets/EnemyHealthController.cs" Line="23" Column="13" />
+      <File FileName="Assets/HealthPickup.cs" />
+      <File FileName="Assets/DoorController.cs" />
+      <File FileName="Assets/PlayerController.cs" Line="134" Column="1" />
+      <File FileName="Assets/DamagePlayer.cs" />
+      <File FileName="Assets/BulletController.cs" Line="8" Column="34" />
+      <File FileName="Assets/AbilityTracker.cs" />
+      <File FileName="Assets/UIController.cs" Line="112" Column="1" />
+      <File FileName="Assets/MainMenu.cs" />
+      <File FileName="Assets/bombController.cs" />
+      <File FileName="Assets/AudioManager.cs" />
+      <File FileName="Assets/CameraController.cs" />
+      <File FileName="Assets/BossBattle.cs" />
+      <File FileName="Assets/EnemyPatroller.cs" Line="66" Column="10" />
+      <File FileName="Assets/BossHealthController.cs" />
+      <File FileName="Assets/BossBullet.cs" />
+      <File FileName="Assets/PlayerHealthController.cs" />
+      <File FileName="Assets/Maps/MapCameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Maps/MapController.cs" Line="29" Column="35" />
+      <File FileName="Assets/Maps/MapActivator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="team14_SE2250Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Maps" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b47b4e3e-3e57-4c15-b577-2867bb40c4ba" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
